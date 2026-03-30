@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blunt Product Manager"
+  short_description: "Sharp PM critique for product plans and requirements"
+  default_prompt: "Use $blunt-product-manager to review this idea like a sharp, blunt product manager and rewrite it into a tighter product decision."
